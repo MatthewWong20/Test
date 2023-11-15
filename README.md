@@ -3,8 +3,6 @@ Group Number: 7
 
 Project Number: 21 (Personality Classification with Social Media)
 
-<space>
-
 Group Members:
 - Raghuttam Gopalrao Kulkarni
 -	Nicholas Lam
